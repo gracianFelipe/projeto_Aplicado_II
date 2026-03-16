@@ -1,5 +1,5 @@
 # projeto_Aplicado_II
-Projeto Aplicado II: Análise de Processamento de Linguagem Natural (NLP) e Machine Learning aplicada a dados do iFood para identificação de padrões e otimização de categorias.
+Análise de Processamento de Linguagem Natural (NLP) e Machine Learning aplicada a dados do iFood para identificação de padrões e otimização de categorias.
 
 # 🍔 DeliveryInsights: Análise NLP em Dados do iFood
 
@@ -33,10 +33,9 @@ Os dados utilizados neste projeto são de domínio público e foram extraídos d
 
 ## 👥 Equipe de Desenvolvimento
 
-* [Seu Nome Completo] - [Seu RA]
-* [Nome do Colega 2] - [RA do Colega 2]
-* [Nome do Colega 3] - [RA do Colega 3]
-* [Nome do Colega 4] - [RA do Colega 4] (Se houver)
+* Felipe Graciano de Moura Ramos
+* André Cavina Oliveira
+* Diogo Silva
 
 ---
 *Projeto desenvolvido para a disciplina de Projeto Aplicado II.*
