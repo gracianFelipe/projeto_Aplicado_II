@@ -121,22 +121,28 @@ Isso fortalece a justificativa metodológica e evita depender de uma única mét
 .
 ├── data/
 │   ├── processed/
+│   │   └── .gitkeep
 │   ├── raw/
+│   │   └── .gitkeep
 │   └── README.md
 ├── notebooks/
 │   ├── 01_analise_exploratoria_ifood.ipynb
 │   └── 02_modelagem_nlp_ifood.ipynb
 ├── src/
-│   ├── __init__.py
+│   ├── _init_.py
 │   ├── config.py
 │   ├── data_preparation.py
 │   ├── evaluate_model.py
+│   ├── extract_terms.py
 │   ├── train_model.py
 │   └── utils_text.py
 ├── docs/
+│   ├── conformidade_rubrica.md
 │   └── etapa_2_metodo_analitico.md
-│   └── PROJETO_APLICADO_A2.pdf
+├── models/
+│   └── ifood_text_classifier.joblib
 ├── requirements.txt
+├── .gitignore
 └── README.md
 ```
 
