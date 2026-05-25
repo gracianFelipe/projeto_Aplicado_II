@@ -1,11 +1,27 @@
-__pycache__/
-*.pyc
-.ipynb_checkpoints/
-.env
+# Ambiente virtual
 .venv/
 venv/
+env/
+.env
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dados grandes
 data/raw/*.csv
 data/processed/*
 !data/processed/.gitkeep
-models/
-outputs/
+
+# Modelos: ignora artefatos grandes mas mantém o classificador principal
+models/*
+!models/.gitkeep
+!models/ifood_text_classifier.joblib
+
+# Sistema
+.DS_Store
+Thumbs.db
