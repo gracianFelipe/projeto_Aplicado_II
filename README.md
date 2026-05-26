@@ -141,6 +141,8 @@ Isso fortalece a justificativa metodológica e evita depender de uma única mét
 │   └── etapa_2_metodo_analitico.md
 ├── models/
 │   └── ifood_text_classifier.joblib
+├── video-apresentacao/
+│   └── README.md
 ├── requirements.txt
 ├── .gitignore
 └── README.md
